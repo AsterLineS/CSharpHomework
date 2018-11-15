@@ -1,0 +1,13 @@
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\bin\Debug\exe1.exe
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\bin\Debug\exe1.pdb
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\bin\Debug\exe1.exe.config
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\virsual studio\C#source\homework7\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

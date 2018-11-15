@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfOrderDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderDetails>
+    <OrderNumber>2018/11/13/001</OrderNumber>
+    <CustomerName>JX1</CustomerName>
+    <GoodsName>一点点</GoodsName>
+    <GoodsNumber>1</GoodsNumber>
+    <GoodsPrice>1.5</GoodsPrice>
+    <CustomerPNumber>125-2111-3142</CustomerPNumber>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderNumber>2018/11/13/002</OrderNumber>
+    <CustomerName>JX2</CustomerName>
+    <GoodsName>两点点</GoodsName>
+    <GoodsNumber>2</GoodsNumber>
+    <GoodsPrice>2.5</GoodsPrice>
+    <CustomerPNumber>134-5211-3142</CustomerPNumber>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderNumber>2018/11/13/003</OrderNumber>
+    <CustomerName>JX3</CustomerName>
+    <GoodsName>三点点</GoodsName>
+    <GoodsNumber>3</GoodsNumber>
+    <GoodsPrice>3.5</GoodsPrice>
+    <CustomerPNumber>125-5211-3142</CustomerPNumber>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderNumber>2018/11/13/004</OrderNumber>
+    <CustomerName>JX4</CustomerName>
+    <GoodsName>四点点</GoodsName>
+    <GoodsNumber>4</GoodsNumber>
+    <GoodsPrice>4.5</GoodsPrice>
+    <CustomerPNumber>521-5211-3142</CustomerPNumber>
+  </OrderDetails>
+</ArrayOfOrderDetails>

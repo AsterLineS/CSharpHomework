@@ -1,0 +1,7 @@
+G:\virsual studio\C#source\homework7\exe1\bin\Debug\exe1.exe.config
+G:\virsual studio\C#source\homework7\exe1\bin\Debug\exe1.exe
+G:\virsual studio\C#source\homework7\exe1\bin\Debug\exe1.pdb
+G:\virsual studio\C#source\homework7\exe1\obj\Debug\exe1.csprojAssemblyReference.cache
+G:\virsual studio\C#source\homework7\exe1\obj\Debug\exe1.csproj.CoreCompileInputs.cache
+G:\virsual studio\C#source\homework7\exe1\obj\Debug\exe1.exe
+G:\virsual studio\C#source\homework7\exe1\obj\Debug\exe1.pdb
